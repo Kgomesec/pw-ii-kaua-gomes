@@ -1,2 +1,2 @@
 # pw-ii-kaua-gomes
-repositório para as aulas de pw ii com o professor João Siles
+Repositório para as aulas de pw ii com os professores Palhares e João Siles na Etec Camargo Aranha
